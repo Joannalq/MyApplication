@@ -18,8 +18,8 @@ public class ColorWheel {
             "#637a91", // dark gray
             "#f092b0", // pink
             "#b7c0c7",  // light gray
-            "#ddca8b" //glod
-
+            "#ddca8b",  //glod
+            "#8b4513" //bonze
          };
 
     public String getColor(){
